@@ -22,12 +22,7 @@ function page() {
         </p>
 
         <div className="flex flex-col mt-8 sm:mt-16">
-          <Link
-            href={""}
-            className="text-sm font-semibold tracking-widest text-center mb-6 bg-[#FFC94A] py-3 px-6 rounded-full w-[200px]"
-          >
-            Live Website
-          </Link>
+         
           <p className="text-xl text-justify">
             Website Ayo Vaksin adalah aplikasi web yang dirancang untuk
             memfasilitasi proses pencatatan dan pengelolaan data vaksinasi.
