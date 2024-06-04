@@ -23,7 +23,7 @@ function page() {
 
         <div className="flex flex-col mt-8 sm:mt-16">
           <Link
-            href={""}
+            href={"https://note-apps-beryl.vercel.app/"}
             className="text-sm font-semibold tracking-widest text-center mb-6 bg-[#FFC94A] py-3 px-6 rounded-full w-[200px]"
           >
             Live Website
