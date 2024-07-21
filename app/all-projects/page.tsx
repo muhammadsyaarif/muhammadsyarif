@@ -27,7 +27,7 @@ function page() {
               <Image
                 className="h-full w-full rounded-lg object-cover"
                 src={
-                  "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717409364/Syarif/smartdam_gpobgy.png"
+                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721572448/Screenshot_279_y1qjux.png"
                 }
                 alt={"coming-soon"}
                 width={300}
@@ -64,7 +64,7 @@ function page() {
               <Image
                 className="h-full w-full rounded-lg object-cover"
                 src={
-                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721572448/Screenshot_279_y1qjux.png"
+                  "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717451950/Syarif/notes_aztd52.png"
                 }
                 alt={"coming-soon"}
                 width={300}
