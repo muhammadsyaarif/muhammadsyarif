@@ -45,7 +45,7 @@ function page() {
               <Image
                 className="h-full w-full rounded-lg object-cover border-2"
                 src={
-                  "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717451950/Syarif/notes_aztd52.png"
+                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721614872/Screenshot_355_lxuvex.png"
                 }
                 alt={"coming-soon"}
                 width={300}
@@ -65,7 +65,7 @@ function page() {
               <Image
                 className="h-full w-full rounded-lg object-cover"
                 src={
-                  "https://res.cloudinary.com/dgnmqbglc/image/upload/v1717452766/Syarif/notess_vuusih.png"
+                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721614871/Screenshot_356_bj8jiw.png"
                 }
                 alt={"coming-soon"}
                 width={300}
