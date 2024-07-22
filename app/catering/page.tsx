@@ -79,7 +79,7 @@ function page() {
               <Image
                 className="h-full w-full border-2 rounded-lg object-cover"
                 src={
-                  ""
+                  "https://res.cloudinary.com/dvavtg6tx/image/upload/v1721615334/Screenshot_357_zj8wir.png"
                 }
                 alt={"coming-soon"}
                 width={300}
